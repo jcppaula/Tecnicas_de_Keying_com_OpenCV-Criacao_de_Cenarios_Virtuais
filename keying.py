@@ -16,7 +16,7 @@ fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # Use o codec 'mp4v'
 out_person = cv2.VideoWriter('output_person.mp4', fourcc, fps, (frame_width, frame_height))  # Salva o vídeo da pessoa isolada
 out_final = cv2.VideoWriter('output_final.mp4', fourcc, fps, (frame_width, frame_height))  # Salva o vídeo da composição final
 
-# Define as dimensões da janela menor
+# Define as dimensões da janela
 window_width = 1280
 window_height = 720
 
