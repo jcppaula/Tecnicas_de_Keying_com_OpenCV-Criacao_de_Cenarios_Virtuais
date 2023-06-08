@@ -10,7 +10,7 @@
 Esse programa usa Técnincas de Keying e a bibliotéca OpenCV, para remover o fundo verde do vídeo de uma pessoa em um escritório e colocar um fundo de praia.
 
 <p align="center">
-  <img src="Fundo_Verde_GIF.gif" style="width: 800px; height: 500px;">
+  <img src="Fundo_Verde_GIF.gif" style="width: 700px; height: 400px;">
 </p>
 
 ## Estrutura do Projeto
