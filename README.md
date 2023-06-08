@@ -7,7 +7,7 @@
 
 # Técnicas de Keying com OpenCV: Criação de Cenários Virtuais
 
-Esse programa usa Técnicas de Keying e a biblioteca OpenCV, para remover o fundo verde do vídeo de uma pessoa em um escritório e colocar um fundo de praia.
+Esse programa usa Técnicas de Keying e a biblioteca OpenCV, para trocar o fundo verde de um vídeo por qualquer outro vídeo ou imagem.
 
 <p align="center">
   <img src="Fundo_Verde_GIF.gif" style="width: 700px; height: 400px;">
