@@ -7,7 +7,7 @@
 
 # Tecnicas de Keying com OpenCV: Criação de Cenarios Virtuais
 
-Este é um projeto de Detector de Fadiga desenvolvido para a Especialização em Visão Computacional. O programa utiliza técnicas de Visão Computacional e Aprendizado de Máquina para detectar sinais de fadiga (como fechamento prolongado dos olhos) em um fluxo de vídeo em tempo real.
+Esse programa usa Técnincas de Keying e a bibliotéca OpenCV, para remover o fundo verde do vídeo de uma pessoa em um escritório e colocar um fundo de praia.
 
 <p align="center">
   <img src="Fundo_Verde_GIF.gif" style="width: 800px; height: 500px;">
@@ -31,7 +31,7 @@ A estrutura do projeto é a seguinte:
 * `webcam.mp4`: video com uma pessoa e um fundo verde. 
 * `projeto_01.py`: código fonte do projeto.  
 * `requirements.txt`: arquivo que lista as dependências necessárias para executar o programa.
-* 
+
 ## Pré-requisitos
 Para executar este projeto, você precisa ter o Python instalado em seu sistema, eu estou usando a versão *3.8.5*. As dependências do projeto são listadas no arquivo requirements.txt e podem ser instaladas com o seguinte comando:
 
